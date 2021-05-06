@@ -1,5 +1,8 @@
-/*Autor: I.E.S Alixar Dual
-  Fecha: 06/05/21 */
+------------------------------------------------------
+-- Autor : I.E.S Alixar DUal
+-- Descripción : Script 21 - Formación SQL
+-- Responsable : Juan Alejandro Téllez Rubio
+------------------------------------------------------
 
 INSERT INTO modulo VALUES(1, 'Lenguaje de marcas');
 INSERT INTO modulo VALUES(2, 'Base de datos');

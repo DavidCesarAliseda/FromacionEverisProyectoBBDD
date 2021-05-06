@@ -1,5 +1,8 @@
-/*Autor: I.E.S Alixar Dual
-  Fecha: 06/05/21 */
+------------------------------------------------------
+-- Autor       : I.E.S Alixar Dual
+-- Descripción : Script 2 - Formación SQL
+-- Responsable : Conjunto de Alumnos
+------------------------------------------------------
 
 CREATE TABLE plaza_parking
 (

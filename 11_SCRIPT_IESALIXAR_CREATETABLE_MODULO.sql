@@ -1,8 +1,11 @@
-/*Autor: I.E.S Alixar Dual
-  Fecha: 06/05/21 */
+------------------------------------------------------
+-- Autor       : I.E.S Alixar Dual
+-- Descripción : Script 10 - Formación SQL
+-- Responsable : Conjunto de Alumnos
+------------------------------------------------------
 
 CREATE TABLE modulo
 (
-	id_modulo INT(1) PRIMARY KEY AUTO_INCREMENT,
+	id_modulo INT(1) AUTO_INCREMENT PRIMARY KEY,
 	nombre VARCHAR(30) NOT NULL
 );

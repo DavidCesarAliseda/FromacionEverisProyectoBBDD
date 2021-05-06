@@ -1,6 +1,9 @@
-/*Autor: I.E.S Alixar Dual
-  Fecha: 06/05/21 */
+------------------------------------------------------
+-- Autor : I.E.S Alixar DUal
+-- Descripción : Script 20 - Formación SQL
+-- Responsable : Juan Alejandro Téllez Rubio
+------------------------------------------------------
 
-INSERT INTO formador_encargado VALUES('32532526K', '63126413A');
-INSERT INTO formador_encargado VALUES('32532526K', '26426236X');
-INSERT INTO formador_encargado VALUES('32532526K', '52315326H');
+INSERT INTO formador_encargado VALUES('63126413A', '32532526K');
+INSERT INTO formador_encargado VALUES('26426236X', '32532526K');
+INSERT INTO formador_encargado VALUES('52315326H', '32532526K');
