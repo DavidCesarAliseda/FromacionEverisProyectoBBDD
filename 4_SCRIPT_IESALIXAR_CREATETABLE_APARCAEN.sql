@@ -5,8 +5,8 @@ CREATE TABLE aparca_en
 (
 	id_plaza INT(3),
 	dni VARCHAR(9),
-	hora_entrada DATETIME DEFAULT SYSDATE(),
-	hora_salida DATETIME DEFAULT SYSDATE(),
+	hora_entrada DATETIME DEFAULT CURRENT_TIMESTAMP(),
+	hora_salida DATETIME DEFAULT CURRENT_TIMESTAMP(),
 	
 	PRIMARY KEY(id_plaza,dni,hora_entrada),
 	FOREIGN KEY(id_plaza) REFERENCES plaza_parking(id_plaza)ON DELETE CASCADE ON UPDATE CASCADE,
