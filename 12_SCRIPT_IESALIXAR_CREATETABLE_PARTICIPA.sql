@@ -1,3 +1,6 @@
+/*Autor: I.E.S Alixar Dual
+  Fecha: 06/05/21 */
+
 CREATE TABLE participa
 (
 	dni VARCHAR(9),

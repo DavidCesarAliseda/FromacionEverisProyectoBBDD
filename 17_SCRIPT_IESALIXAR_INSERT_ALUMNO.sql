@@ -1,3 +1,6 @@
+/*Autor: I.E.S Alixar Dual
+  Fecha: 06/05/21 */
+
 INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('26546747S','DAW','Segundo','IES SOTERO');
 INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('15463125Z','DAM','Primero','IES ALIXAR');
 INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('63126413A','DAW','Primero','IES SALESIANAS MARIA AUXILIADORA');

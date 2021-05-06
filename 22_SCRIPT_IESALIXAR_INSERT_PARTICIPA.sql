@@ -1,3 +1,6 @@
+/*Autor: I.E.S Alixar Dual
+  Fecha: 06/05/21 */
+
 INSERT INTO participa VALUES('26546747S', 3, 9);
 INSERT INTO participa VALUES('15463125Z', 3, 4);
 INSERT INTO participa VALUES('63126413A', 3, 7);

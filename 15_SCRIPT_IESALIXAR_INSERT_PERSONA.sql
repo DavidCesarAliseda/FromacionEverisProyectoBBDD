@@ -1,3 +1,6 @@
+/*Autor: I.E.S Alixar Dual
+  Fecha: 06/05/21 */
+
 INSERT INTO persona VALUES('46421346V','David','Corbacho','2000-01-19','4632463426','ddavid@everis.es','Sevilla','Alumno');
 INSERT INTO persona VALUES('26546747S','Luis','Herrera','1999-07-03','694363606','lluis@everis.com','Sevilla','Alumno');
 INSERT INTO persona VALUES('15463125Z','Alexei','Sanchez','1978-04-23','5437573457','aalexei@everis.com','Sevilla','Alumno');
