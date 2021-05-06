@@ -1,0 +1,5 @@
+CREATE TABLE modulo
+(
+	id_modulo INT(1) PRIMARY KEY AUTO_INCREMENT,
+	nombre VARCHAR(30) NOT NULL
+);

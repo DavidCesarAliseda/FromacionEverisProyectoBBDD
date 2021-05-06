@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS fp_dual ;
+CREATE DATABASE fp_dual;
+USE fp_dual;
