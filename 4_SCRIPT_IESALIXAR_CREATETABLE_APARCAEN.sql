@@ -3,8 +3,8 @@
 
 CREATE TABLE aparca_en
 (
-	id_plaza INT(3),
-	dni VARCHAR(9),
+	id_plaza INT(3) NOT NULL,
+	dni VARCHAR(9) NOT NULL,
 	hora_entrada DATETIME DEFAULT CURRENT_TIMESTAMP(),
 	hora_salida DATETIME DEFAULT CURRENT_TIMESTAMP(),
 	
