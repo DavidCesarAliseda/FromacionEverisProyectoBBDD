@@ -1,7 +1,7 @@
 -- ----------------------------------------------------
 -- Autor : I.E.S Alixar DUal
 -- Descripción : Script 23 - Formación SQL
--- Responsable : Juan Alejandro Téllez Rubio
+-- Responsable : Conjunto de Alumnos
 -- ----------------------------------------------------
 
 INSERT INTO especialidad VALUES(1,'Phyton');

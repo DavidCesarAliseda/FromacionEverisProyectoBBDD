@@ -1,7 +1,7 @@
 -- ----------------------------------------------------
 -- Autor : I.E.S Alixar DUal
 -- Descripción : Script 22 - Formación SQL
--- Responsable : Juan Alejandro Téllez Rubio
+-- Responsable : Conjunto de Alumnos
 -- ----------------------------------------------------
 
 INSERT INTO participa VALUES('26546747S', 3, 9);

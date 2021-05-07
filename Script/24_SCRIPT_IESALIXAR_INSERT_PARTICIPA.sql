@@ -1,7 +1,7 @@
 -- ----------------------------------------------------
 -- Autor : I.E.S Alixar DUal
 -- Descripción : Script 24 - Formación SQL
--- Responsable : Juan Alejandro Téllez Rubio
+-- Responsable : Conjunto de Alumnos
 -- ----------------------------------------------------
 
 INSERT INTO pertenece VALUES('63126413A', 1);

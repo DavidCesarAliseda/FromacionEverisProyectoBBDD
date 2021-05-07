@@ -1,7 +1,7 @@
 -- ----------------------------------------------------
 -- Autor : I.E.S Alixar DUal
 -- Descripción : Script 15 - Formación SQL
--- Responsable : Juan Alejandro Téllez Rubio
+-- Responsable : Conjunto de Alumnos
 -- ----------------------------------------------------
 
 INSERT INTO persona VALUES('46421346V','David','Corbacho','2000-01-19','4632463426','ddavid@everis.es','Sevilla','Alumno');
