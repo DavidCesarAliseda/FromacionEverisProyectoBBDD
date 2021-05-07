@@ -1,8 +1,8 @@
-------------------------------------------------------
+-- ----------------------------------------------------
 -- Autor : I.E.S Alixar DUal
 -- Descripción : Script 14 - Formación SQL
 -- Responsable : Juan Alejandro Téllez Rubio
-------------------------------------------------------
+-- ----------------------------------------------------
 
 INSERT INTO plaza_parking VALUES(6, 'Ocupada');
 INSERT INTO plaza_parking VALUES(8, 'Ocupada');
