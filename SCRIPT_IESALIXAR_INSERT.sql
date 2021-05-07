@@ -34,6 +34,11 @@ INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('26546747S','DAW','Segundo
 INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('15463125Z','DAM','Primero','IES ALIXAR');
 INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('63126413A','DAW','Primero','IES SALESIANAS');
 INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('46421346V','DAM','Segundo','IES SOTERO');
+INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('23432465W','DAW','Primero','IES SOTERO');
+INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('34623466F','DAM','Primero','IES ALIXAR');
+INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('23463426I','DAM','Primero','IES SOTERO');
+INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('23463426M','DAW','Primero','IES ALIXAR');
+INSERT INTO alumno(dni,grado,curso,instituto) VALUES ('34643623P','DAM','Primero','IES SOTERO');
 
 /*Empresa*/
 INSERT INTO empresa VALUES(1234567891, 'Everis', 'C/ Tajo');
@@ -64,7 +69,30 @@ INSERT INTO participa VALUES('63126413A', 3, 7);
 INSERT INTO participa VALUES('26546747S', 1, 10);
 INSERT INTO participa VALUES('63126413A', 4, 6);
 INSERT INTO participa VALUES('63126413A', 2, 5);
-
+INSERT INTO participa VALUES('23432465W',1,7);
+INSERT INTO participa VALUES('23432465W',2,9);
+INSERT INTO participa VALUES('23432465W',3,7);
+INSERT INTO participa VALUES('23432465W',4,6);
+INSERT INTO participa VALUES('23463426I',1,9);
+INSERT INTO participa VALUES('23463426I',2,6);
+INSERT INTO participa VALUES('23463426I',3,7);
+INSERT INTO participa VALUES('23463426I',4,8);
+INSERT INTO participa VALUES('23463426M',1,6);
+INSERT INTO participa VALUES('23463426M',2,9);
+INSERT INTO participa VALUES('23463426M',3,10);
+INSERT INTO participa VALUES('23463426M',4,7);
+INSERT INTO participa VALUES('34623466F',1,8);
+INSERT INTO participa VALUES('34623466F',2,8);
+INSERT INTO participa VALUES('34623466F',3,8);
+INSERT INTO participa VALUES('34623466F',4,8);
+INSERT INTO participa VALUES('34643623P',1,7);
+INSERT INTO participa VALUES('34643623P',2,6);
+INSERT INTO participa VALUES('34643623P',3,10);
+INSERT INTO participa VALUES('34643623P',4,7);
+INSERT INTO participa VALUES('46421346V',1,10);
+INSERT INTO participa VALUES('46421346V',2,7);
+INSERT INTO participa VALUES('46421346V',3,8);
+INSERT INTO participa VALUES('46421346V',4,5);
 /*Especialidad*/
 INSERT INTO especialidad VALUES(1,'Phyton');
 INSERT INTO especialidad VALUES(2,'Java');

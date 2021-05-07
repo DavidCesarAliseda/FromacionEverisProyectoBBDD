@@ -180,7 +180,7 @@ FROM participa p inner join alumno a2
 	ON p.dni  = a2.dni inner join persona p2 
 	ON a2.dni = p2.dni
 GROUP BY dni 
-HAVING count(*) = 5 and avg(nota) >= 9 ;
+HAVING count(*) = 4 and avg(nota) >= 9 ;
 
 -- Consulta con inner join, group, muestra la nota media de cada instituto
 SELECT a.instituto, avg(p.nota) media 
